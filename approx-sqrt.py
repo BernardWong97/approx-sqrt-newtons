@@ -15,4 +15,9 @@ def sqrt(x):
     return z
 
 
-print(sqrt(8.0))
+# Calculate the square root and print it.
+z = sqrt(10.0)
+print(z)
+
+# Print the square of the square of z.
+print(z * z)
